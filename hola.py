@@ -1,1 +1,1 @@
-create archivo python
+print("Hola brother")
